@@ -5,9 +5,3 @@ if  (numbers.includes(9)){
 } else {
     console.log('No se encuentra el valor');
 }
-
-let base = 4;
-let exponents = 3;
-let result = base ** exponents;
-
-console.log(result);
