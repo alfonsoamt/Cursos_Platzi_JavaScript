@@ -1,0 +1,16 @@
+{
+  "name": "jsnpm",
+  "version": "1.0.0",
+  "description": "Counstruir un paquete para node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfonso",
+  "license": "ISC",
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ]
+}
